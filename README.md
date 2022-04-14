@@ -1,4 +1,4 @@
-# ESRGAN_webapp
+# Image Super Resolution WebApp
 An unofficial Image Super Resolution webapp using ESRGAN. Available as a webapp and a Colab Notebook.
 
 ![alt text](https://github.com/taheranjary/ESRGAN_webapp/blob/main/ESRGAN.jpg?raw=true)
